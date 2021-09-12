@@ -1,1 +1,5 @@
-# shengcaii.github.io
+# Python references 
+
+Built-in function
+
+String methods
